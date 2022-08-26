@@ -12,11 +12,8 @@
 <nav>
     <label class="logo">StoryTime</label>
     <ul>
-        <li><a class="active" href="{{route('home.index')}}">Home</a></li>
-         <li><a href="{{route('addposts.index')}}">Posts</a></li>
-        <li><a href="{{route('categories.index')}}">Categories</a></li>
-        <li><a href="">Comments</a></li>
-
+        <li><a class="active" href="{{route('user_home')}}">Home</a></li>
+         
         {{-- <li><a href="{{route('categories.comments')}}">Comments</a></li> --}}
     </ul>
     <label id="icon">

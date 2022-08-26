@@ -50,6 +50,42 @@ nav #icon{
     cursor: pointer;
     display: none;
 }
+.container{
+    border: 1px solid black;
+    margin: 10px 10px 0 10px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    display: block;
+}
+.heading{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contain label{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contain form{
+    padding: 10px;
+}
+.contain form input{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    margin-top: 5px;
+}
+.contain form button{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: cadetblue;
+    color: antiquewhite;
+    cursor: pointer;
+
+}
 @media(max-width: 1048px){
     label.logo{
         font-size: 32px;

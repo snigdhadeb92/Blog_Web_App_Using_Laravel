@@ -1,0 +1,13 @@
+.containe{ 
+    margin: 10px 10px 0 10px;
+    padding: 10px;
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+}
+.containe img{
+    height: 389px;
+    width: 479px;
+}
+.containe p{
+    font-size: medium;
+}

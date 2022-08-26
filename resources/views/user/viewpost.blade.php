@@ -1,4 +1,4 @@
-@include('category.nav')
+@include('user.nav')
 
 
 <h2>This is post</h2>
